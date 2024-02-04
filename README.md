@@ -7,7 +7,6 @@
 **Data Visualization**: Utilized data visualization techniques to analyze market trends, patterns, and performance metrics.
 ![These are the graphs on daily returns and Rolling standard deviation](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105045.png)
 
-![These are the graphs on Buy signal and sell signal](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105045.png)
 
 ![These are the graphs cumulative returns](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105152.png)
 
@@ -24,7 +23,7 @@
 ![These are the graphs on confusion matrix vs actual matrix predicted](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105533.png)
 
 
-
+![These are the graphs on Buy signal and sell signal](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105634.png)
 
 
 **Introduction**
