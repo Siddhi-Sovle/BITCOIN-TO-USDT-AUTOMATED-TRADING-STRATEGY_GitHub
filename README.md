@@ -18,7 +18,7 @@
 ![These are the graphs on decomposition of cumulative returns](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105309.png)
 
 
-![These are the graphs on scatter plot of risk reward ratios vs entry prices](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105045.png)
+![These are the graphs on scatter plot of risk reward ratios vs entry prices](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105458.png)
 
 
 ![These are the graphs on confusion matrix vs actual matrix predicted](https://github.com/Siddhi-Sovle/BITCOIN-TO-USDT-AUTOMATED-TRADING-STRATEGY_GitHub/blob/main/Screenshot%202024-02-04%20105045.png)
